@@ -19,7 +19,7 @@ This project provides a Docker image that can be pulled from Docker Hub and run 
 To pull the latest Docker image from Docker Hub, use the following command:
 
 ```
-docker pull kgaultonlab/t1d-grs-analysis-r3-catboost:latest
+docker pull kgaultonlab/t1d-grs-analysis:latest
 ```
 
 ### Running the Docker Container
