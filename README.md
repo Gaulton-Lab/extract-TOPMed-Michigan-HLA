@@ -76,7 +76,9 @@ docker run -d --name my_temp_container your-dockerhub-username/your-repo:latest
 ## Citation
 
 If you use this tool, please cite:
+```
 McGrail, C., Sears, T.J., Griffin, E.N., Ghaben, A.L., Smadbeck, P., Flannick, J., Kudtarkar, P., Carter, H. & Gaulton, K. (2026). Genetic association and machine learning improve the prediction of type 1 diabetes risk. *Nature Genetics*. https://www.nature.com/articles/s41588-026-02578-y
+```
 
 ### COPYRIGHT & LICENSE
 
